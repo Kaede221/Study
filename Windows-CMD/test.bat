@@ -1,0 +1,3 @@
+ipconfig
+
+echo %1
