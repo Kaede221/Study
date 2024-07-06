@@ -131,7 +131,7 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="01-C++基础入门\03-运算符\05-逻辑运算符.cpp" />
+    <ClCompile Include="01-C++基础入门\05-数组\01-一维数组的定义.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

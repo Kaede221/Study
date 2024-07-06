@@ -11,14 +11,8 @@
 - Windows11家庭版
 - VS Studio 2022 社区版
 
-## 模板代码
+## 怎么使用
 
-```cpp
-#include <iostream>
-using namespace std;
+直接下载`CPP_Study`文件夹, 使用VS Studio 2022打开项目即可
 
-int main() {
-
-	return 0;
-}
-```
+打开后你找不到文件? 建议打开`解决方案资源管理器`的`显示所有文件`按钮
