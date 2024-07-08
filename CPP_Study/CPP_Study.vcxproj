@@ -130,9 +130,6 @@
     <None Include=".gitignore" />
     <None Include="README.md" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="01-C++基础入门\05-数组\01-一维数组的定义.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

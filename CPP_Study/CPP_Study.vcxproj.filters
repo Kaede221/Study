@@ -18,9 +18,4 @@
     <None Include="README.md" />
     <None Include=".gitignore" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="01-C++基础入门\05-数组\01-一维数组的定义.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>
