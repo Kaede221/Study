@@ -10,4 +10,4 @@
 
 ### 01-Basic-Concepts -> Java基础概念
 
-### Basic-Code -> 正式使用IDEA进行开发
+### Basic-Code -> 正式使用IDEA进行开发, 具体内容直接打开项目即可

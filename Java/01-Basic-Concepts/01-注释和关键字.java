@@ -7,7 +7,7 @@
  * */
 
 //这里的class就是类,是一切的根本 class可以定义一个类 大括号就是类的范围
-public class HelloWorld {
+public class HelloWorld2 {
     //这个叫做main方法,是程序的主入口
     public static void main(String[] args) {
         // 这个自然就是输出语句了
