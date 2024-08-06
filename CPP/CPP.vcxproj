@@ -131,6 +131,9 @@
     <None Include="02-C++核心编程\04-类和对象\README.md" />
     <None Include="README.md" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="02-C++核心编程\04-类和对象\02-对象特性\07-类对象作为类成员.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
